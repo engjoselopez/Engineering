@@ -1,10 +1,6 @@
 %% Script Principal
 
 % Reactores con reciclo.
-%Esmeralda López 12-10576
-%Kevin Mejias 11-10600
-%Gerardo Hernandez 12-10382
-
 
 clc; clear all; %Limpiar pantalla
 format short g;  %Formato
