@@ -1,7 +1,5 @@
 %% RQ_1311073_1110859
 % Reactores con reciclo.
-%Carlos Pereira   %Carnet. 13_11073
-%Oscar Reyes      %Carnet. 11_10859
 
 clc; clear all; %Limpiar pantalla
 format short g;  %Formato
