@@ -1,8 +1,5 @@
 %% RQ_1110600_1210576_1210382
 % Reactores con reciclo.
-%Carlos Pereira   %Carnet. 13_11073
-%Oscar Reyes      %Carnet. 11_10859
-
 clc; clear all; %Limpiar pantalla
 format short g;  %Formato
 %% Inicialmente, definimos las variables a introducir:
